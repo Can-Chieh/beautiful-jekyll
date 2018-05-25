@@ -14,7 +14,7 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: Hi! I'm Can.
+title: Hi! I'm Can
 
 # Short description of your site
 description: To be a better one!
@@ -27,7 +27,7 @@ navbar-links:
   Resources:
     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
     - Learn markdown: "http://www.markdowntutorial.com/"
-    - GitHub Pages: "https://pages.github.com/"
+    #- GitHub Pages: "https://pages.github.com/"
   #Author's home: "http://deanattali.com"
   Tags: "tags"
   Google: "https://www.google.com/"
@@ -69,7 +69,7 @@ footer-link-col: "#404040"
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
   name: CanChieh
-  url: "http://can-chieh.github.io"
+  
 
 # Select your active Social Network Links.
 # Uncomment the links you want to show in the footer and add your information to each link.
@@ -99,8 +99,8 @@ social-network-links:
 share-links-active:
   twitter: true
   facebook: true
-  google: false
-  linkedin: true
+  google: true
+  linkedin: false
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
