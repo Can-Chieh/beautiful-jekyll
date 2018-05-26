@@ -12,6 +12,7 @@ Here is the first post!
 {% highlight javascript linenos %}
 int main() {
   printf("Hello World!");
+  return 0;
 }
 {% endhighlight %}
 
