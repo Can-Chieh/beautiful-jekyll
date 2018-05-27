@@ -3,11 +3,12 @@ layout: post
 published: true
 title: First Post!
 date: '2018-05-25'
-tags: [test]
+tags: [jekyll, test]
 ---
-## Hello world!
+
 
 Here is the first post!
+
 
 {% highlight javascript linenos %}
 int main() {
@@ -16,6 +17,7 @@ int main() {
 }
 {% endhighlight %}
 
+`use {: .box-note} below`  
 {: .box-note}
 Here is the first post!
 
