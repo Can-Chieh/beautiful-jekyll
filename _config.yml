@@ -28,7 +28,7 @@ navbar-links:
     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
     - Learn markdown: "http://www.markdowntutorial.com/"
     - Markdown tutorial: "https://www.markdownguide.org/"
-    #- GitHub Pages: "https://pages.github.com/"
+    - GitHub Pages: "https://pages.github.com/"
   #Author's home: "http://deanattali.com"
   Tags: "tags"
   
