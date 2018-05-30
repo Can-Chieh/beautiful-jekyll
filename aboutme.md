@@ -2,6 +2,7 @@
 layout: page
 title: About me
 subtitle: Work Hard, Play Hard.
+css: "/css/aboutme.css"
 ---
 
 My name is Kuan Chieh Wang. 
