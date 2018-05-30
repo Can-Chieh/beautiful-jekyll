@@ -4,13 +4,10 @@ title: About me
 subtitle: Work Hard, Play Hard.
 ---
 
-My name is Kuan Chieh Wang. I have the following qualities:
+My name is Kuan Chieh Wang. 
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+:briefcase: Substitute Military Service(2017~Now), Taoyuan Branch Administrative Enforcement Agency, MOJ.
 
-What else do you need?
+:mortar_board: M.S(2015~2017), in Comtuper Sciences, , [National Tsing Hua University](http://www.nthu.edu.tw/).
+:mortar_board: B.S(2011~2015), in Applied Mathematicals, [National Chung Hsing University](https://www.nchu.edu.tw/index).
 
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
