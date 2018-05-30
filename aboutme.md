@@ -12,3 +12,4 @@ My name is Kuan Chieh Wang.
 
  :mortar_board:  B.S(2011~2015), in Applied Mathematicals, [National Chung Hsing University](https://www.nchu.edu.tw/index).
 
+<i class="fas fa-graduation-cap"></i>
