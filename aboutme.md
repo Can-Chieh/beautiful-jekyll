@@ -13,10 +13,11 @@ My name is Kuan Chieh Wang.
 </p>
 
 <p class="about-text">
-<i class="fa fa-graduation-cap about-icon"></i></p>  M.S(2015~2017), in Comtuper Sciences, [National Tsing Hua University](http://www.nthu.edu.tw/).
+<i class="fa fa-graduation-cap about-icon"></i>  M.S(2015~2017), in Comtuper Sciences, <a href="http://www.nthu.edu.tw/">National Tsing Hua University</a>.
+</p>
 
 <p class="about-text">
-<i class="fa fa-graduation-cap about-icon"></i>  B.S(2011~2015), in Applied Mathematicals, [National Chung Hsing University](https://www.nchu.edu.tw/index).
+<i class="fa fa-graduation-cap about-icon"></i>  B.S(2011~2015), in Applied Mathematicals, <a href="https://www.nchu.edu.tw/index">National Chung Hsing University</a>.
 </p>
 
 
