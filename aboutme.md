@@ -7,8 +7,9 @@ css: "/css/aboutme.css"
 
 
 My name is Kuan Chieh Wang.  
-Hope I can use my abilities to make the world better.
+Hope I can use my abilities to make the world better. Always curious. Keep thinking.
 
+<!--
 <p class="about-text">  
 <i class="fa fa-briefcase about-icon"></i> 替代役(2017~Now), 法務部行政執行署。
 </p>
@@ -23,12 +24,15 @@ Hope I can use my abilities to make the world better.
 
 ----------------------
 ----------------------
+-->
+
 <p class="about-text">  
 <i class="fa fa-briefcase about-icon"></i> Alternative Military Service(2017~Now), Taoyuan Branch Administrative Enforcement Agency, MOJ.
 </p>
 
 <p class="about-text">
-<i class="fa fa-graduation-cap about-icon"></i>  M.S(2015~2017), in Computer Sciences, <a href="http://www.nthu.edu.tw/">National Tsing Hua University</a>.
+<i class="fa fa-graduation-cap about-icon"></i>  M.S(2015~2017), in Computer Sciences, <a href="http://www.nthu.edu.tw/">National Tsing Hua University</a>.</br>
+Thesis: Learning to Play an El Farol Bar Game 
 </p>
 
 <p class="about-text">
