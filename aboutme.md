@@ -18,9 +18,10 @@ Alternative Military Service(2017~Now), Taoyuan Branch Administrative Enforcemen
 
 <p class="about-text">
 <span class="fa fa-graduation-cap about-icon"></span>
-M.S(2015~2017), in Computer Sciences, <a href="http://www.nthu.edu.tw/">National Tsing Hua University</a>. </br> 
-</p>
+M.S(2015~2017), in Computer Sciences, <a href="http://www.nthu.edu.tw/">National Tsing Hua University</a>. </br> < br>
 Thesis: Learning to Play an El Farol Bar Game
+</p>
+
 
 <p class="about-text">
 <span class="fa fa-graduation-cap about-icon"></span>
