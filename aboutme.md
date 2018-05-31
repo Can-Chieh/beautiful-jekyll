@@ -39,7 +39,7 @@ I will be away until Feb 6, with very limited time to work. My responses will be
 
 
 
-<p>You can <a href="mailto:can546257@gmail.com?subject=Hello from can-chieh.github.io">email me if you want to get in touch.
+<p>You can <a href="mailto:can546257@gmail.com?subject=Hello from can-chieh.github.io">email me</a> if you want to get in touch.
 <form action="https://formspree.io/can546257@gmail.com" method="POST" class="form" id="contact-form">
   <p>You can also send me a quick message using the form below:</p>
   <div class="row">
@@ -50,7 +50,7 @@ I will be away until Feb 6, with very limited time to work. My responses will be
       <input type="text" name="name" class="form-control input-lg" placeholder="Name" title="Name">
     </div>
   </div>
-  <input type="hidden" name="_subject" value="New submission from deanattali.com">
+  <input type="hidden" name="_subject" value="New submission from can-chieh.github.io">
   <textarea type="text" name="content" class="form-control input-lg" placeholder="Message" title="Message" required="required" rows="3"></textarea>
   <input type="text" name="_gotcha" style="display:none">
   <input type="hidden" name="_next" value="./aboutme?message=Your message was sent successfully, thanks!" />
