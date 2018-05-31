@@ -21,7 +21,8 @@ Hope I can use my abilities to make the world better.
 <i class="fa fa-graduation-cap about-icon"></i>  學士(2011~2015)，應用數學系，<a href="https://www.nchu.edu.tw/index">國立中興大學</a>.
 </p>
 
-**----**
+----------------------
+----------------------
 <p class="about-text">  
 <i class="fa fa-briefcase about-icon"></i> Alternative Military Service(2017~Now), Taoyuan Branch Administrative Enforcement Agency, MOJ.
 </p>
