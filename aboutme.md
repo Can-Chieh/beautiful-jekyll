@@ -31,7 +31,7 @@ Hope I can use my abilities to make the world better. Always curious. Keep think
 </p>
 
 <p class="about-text">
-<i class="fa fa-graduation-cap about-icon"></i>  M.S(2015~2017), in Computer Sciences, <a href="http://www.nthu.edu.tw/">National Tsing Hua University</a>.</br>
+<i class="fa fa-graduation-cap about-icon"></i>  M.S(2015~2017), in Computer Sciences, <a href="http://www.nthu.edu.tw/">National Tsing Hua University</a>. </br>
 Thesis: Learning to Play an El Farol Bar Game 
 </p>
 
