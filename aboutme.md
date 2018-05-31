@@ -9,34 +9,53 @@ css: "/css/aboutme.css"
 My name is Kuan Chieh Wang.  
 Hope I can use my abilities to make the world better. Always curious. Keep thinking.
 
-<!--
+
+
 <p class="about-text">  
-<i class="fa fa-briefcase about-icon"></i> 替代役(2017~Now), 法務部行政執行署。
+<span class="fa fa-briefcase about-icon"></span>
+Alternative Military Service(2017~Now), Taoyuan Branch Administrative Enforcement Agency, MOJ.
 </p>
 
 <p class="about-text">
-<i class="fa fa-graduation-cap about-icon"></i>  碩士(2015~2017)，資訊工程學系，<a href="http://www.nthu.edu.tw/">國立清華大學</a>.
+<span class="fa fa-graduation-cap about-icon"></span>
+M.S(2015~2017), in Computer Sciences, <a href="http://www.nthu.edu.tw/">National Tsing Hua University</a>. </br> 
 </p>
+Thesis: Learning to Play an El Farol Bar Game
 
 <p class="about-text">
-<i class="fa fa-graduation-cap about-icon"></i>  學士(2011~2015)，應用數學系，<a href="https://www.nchu.edu.tw/index">國立中興大學</a>.
+<span class="fa fa-graduation-cap about-icon"></span>
+B.S(2011~2015), in Applied Mathematics, <a href="https://www.nchu.edu.tw/index">National Chung Hsing University</a>.
 </p>
 
-----------------------
-----------------------
+
+<div id="contactme-section">
+<h1 id="contact">Contact</h1>
+
+<!--
+<div class="alert alert-danger" role="alert">
+I will be away until Feb 6, with very limited time to work. My responses will be slow during this period.
+</div>
 -->
 
-<p class="about-text">  
-<i class="fa fa-briefcase about-icon"></i> Alternative Military Service(2017~Now), Taoyuan Branch Administrative Enforcement Agency, MOJ.
-</p>
 
-<p class="about-text">
-<i class="fa fa-graduation-cap about-icon"></i>  M.S(2015~2017), in Computer Sciences, <a href="http://www.nthu.edu.tw/">National Tsing Hua University</a>. </br>
-Thesis: Learning to Play an El Farol Bar Game 
-</p>
 
-<p class="about-text">
-<i class="fa fa-graduation-cap about-icon"></i>  B.S(2011~2015), in Applied Mathematics, <a href="https://www.nchu.edu.tw/index">National Chung Hsing University</a>.
-</p>
+<p>You can <a href="mailto:can546257@gmail.com?subject=Hello from can-chieh.github.io">email me if you want to get in touch.
+<form action="https://formspree.io/can546257@gmail.com" method="POST" class="form" id="contact-form">
+  <p>You can also send me a quick message using the form below:</p>
+  <div class="row">
+    <div class="col-xs-6">
+      <input type="email" name="_replyto" class="form-control input-lg" placeholder="Email" title="Email">
+    </div>
+    <div class="col-xs-6">
+      <input type="text" name="name" class="form-control input-lg" placeholder="Name" title="Name">
+    </div>
+  </div>
+  <input type="hidden" name="_subject" value="New submission from deanattali.com">
+  <textarea type="text" name="content" class="form-control input-lg" placeholder="Message" title="Message" required="required" rows="3"></textarea>
+  <input type="text" name="_gotcha" style="display:none">
+  <input type="hidden" name="_next" value="./aboutme?message=Your message was sent successfully, thanks!" />
+  
+  <button type="submit" class="btn btn-lg btn-primary">Submit</button>
+</form>
 
 
