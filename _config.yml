@@ -31,8 +31,7 @@ navbar-links:
     - Markdown tutorial: "https://www.markdownguide.org/"
     - GitHub Pages: "https://pages.github.com/"
     - Mastering Markdown: "https://guides.github.com/features/mastering-markdown/"
-  Search: "search"
-nav-search: "search"
+  
   
 
 # Image to show in the navigation bar - image must be a square (width = height)
