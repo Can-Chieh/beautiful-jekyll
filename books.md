@@ -1,7 +1,7 @@
 ---
 layout: page
 published: ture
-title: 待讀書單
+title: 閱讀書單
 subtitle: 想讓自己養成閱讀的好習慣
 comments: false
 ---
