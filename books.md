@@ -3,7 +3,7 @@ layout: page
 published: ture
 title: 閱讀書單
 subtitle: 想讓自己養成閱讀的好習慣
-bigimg: "/img/bigimg/books.jpg" : "Book image created by Freepik"
+bigimg: /img/bigimg/books.jpg : "Book image created by Freepik"
 ---
 
 
