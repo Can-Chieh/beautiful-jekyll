@@ -5,7 +5,7 @@ title: 面試經歷
 <!--subtitle: 一些該注意-->
 date: '2018-05-31'
 tags: [面試, interview]
-googlefont: ["Microsoft JhengHei", "Lobster"]
+googlefont: ["Microsoft JhengHei"]
 comments: ture
 ---
 
