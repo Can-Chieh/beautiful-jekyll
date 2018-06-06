@@ -3,7 +3,7 @@ layout: page
 published: ture
 title: 閱讀書單
 subtitle: 想讓自己養成閱讀的好習慣
-bigimg: "https://image.freepik.com/free-photo/taking-some-notes_438-19316436.jpg"
+bigimg: "/img/books" : "Book image created by Freepik"
 comments: false
 ---
 
@@ -36,4 +36,11 @@ comments: false
                             
                             
 
+
+
+
+
+
+
+<a href='https://www.freepik.com/free-photo/calculator-and-book-on-unrolled-paper_2367618.htm'>Designed by Freepik</a>
 
