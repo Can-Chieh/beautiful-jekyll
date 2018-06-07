@@ -17,6 +17,7 @@ show-avatar: false
 - [x] [斜槓青年](http://www.books.com.tw/products/0010762201)
 - [ ] [心態致勝](http://www.books.com.tw/products/0010748470)
 - [ ] [和任何人都能愉快相處的科學：人際智商實驗室精心研發](http://www.books.com.tw/products/0010768144)
+- [ ] [萬物簡史](http://www.books.com.tw/products/CN11470053)
 - [ ] [為什麼我們這樣生活，那樣工作？](http://www.books.com.tw/products/0010560033)
 - [ ] [原來有錢人都這麼做](http://www.books.com.tw/products/0010745358)
 - [ ] [峰與谷](http://www.books.com.tw/products/0010453641)
