@@ -8,7 +8,7 @@ layout: null
 /* --- General --- */
 
 body {
-  font-family: 'Noto Sans TC', 'Lora', 'Arial', 'Helvetica', 'Times New Roman', serif;
+  font-family: 'Lora', 'Noto Sans TC', 'Arial', 'Helvetica', 'Times New Roman', serif;
   font-size: 18px;
   color: #404040;
   position: relative;
@@ -58,7 +58,7 @@ hr.small {
 }
 
 .main-explain-area {
-  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'Open Sans', 'Noto Sans TC', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   padding: 15px inherit;
 }
 
@@ -352,7 +352,7 @@ footer .theme-by {
   margin: 0 0 10px;
 }
 .post-preview .post-entry {
-  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'Open Sans', 'Noto Sans TC', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
 .post-entry-container {
   display: inline-block;
@@ -591,7 +591,7 @@ footer .theme-by {
 /* --- Pager --- */
 
 .pager li a {
-  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'Open Sans', 'Noto Sans TC', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   text-transform: uppercase;
   font-size: 14px;
   font-weight: 800;
